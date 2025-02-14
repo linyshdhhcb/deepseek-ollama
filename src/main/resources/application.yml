@@ -1,7 +1,7 @@
 server:
   port: 9292
   servlet:
-    context-path: /chat
+    context-path: /api
 spring:
   application:
     name: deepseek-ollama
@@ -16,8 +16,7 @@ springdoc:
     path: /v3/api-docs
   group-configs:
     - group: 'default'
-      paths-to-match: '/**'
-      packages-to-scan: com/linyi/controller
+      packages-to-scan: com.linyi.controller
 # knife4j的增强配置，不需要增强可以不配
 knife4j:
   enable: true
