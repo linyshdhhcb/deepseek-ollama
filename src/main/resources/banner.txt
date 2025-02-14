@@ -1,0 +1,32 @@
+                                                                                                                                                                                                                                                                         
+${AnsiColor.BRIGHT_CYAN}             dddddddd
+${AnsiColor.BRIGHT_CYAN}             d::::::d                                                                                                                    kkkkkkkk                                             lllllll lllllll
+${AnsiColor.BRIGHT_CYAN}             d::::::d                                                                                                                    k::::::k                                             l:::::l l:::::l
+${AnsiColor.BRIGHT_CYAN}             d::::::d                                                                                                                    k::::::k                                             l:::::l l:::::l
+${AnsiColor.BRIGHT_CYAN}             d:::::d                                                                                                                     k::::::k                                             l:::::l l:::::l
+${AnsiColor.BRIGHT_CYAN}     ddddddddd:::::d     eeeeeeeeeeee        eeeeeeeeeeee    ppppp   ppppppppp       ssssssssss       eeeeeeeeeeee        eeeeeeeeeeee    k:::::k    kkkkkkk                    ooooooooooo    l::::l  l::::l   aaaaaaaaaaaaa      mmmmmmm    mmmmmmm     aaaaaaaaaaaaa
+${AnsiColor.BRIGHT_CYAN}   dd::::::::::::::d   ee::::::::::::ee    ee::::::::::::ee  p::::ppp:::::::::p    ss::::::::::s    ee::::::::::::ee    ee::::::::::::ee  k:::::k   k:::::k                   oo:::::::::::oo  l::::l  l::::l   a::::::::::::a   mm:::::::m  m:::::::mm   a::::::::::::a
+${AnsiColor.BRIGHT_CYAN}  d::::::::::::::::d  e::::::eeeee:::::ee e::::::eeeee:::::eep:::::::::::::::::p ss:::::::::::::s  e::::::eeeee:::::ee e::::::eeeee:::::eek:::::k  k:::::k                   o:::::::::::::::o l::::l  l::::l   aaaaaaaaa:::::a m::::::::::mm::::::::::m  aaaaaaaaa:::::a
+${AnsiColor.BRIGHT_CYAN} d:::::::ddddd:::::d e::::::e     e:::::ee::::::e     e:::::epp::::::ppppp::::::ps::::::ssss:::::se::::::e     e:::::ee::::::e     e:::::ek:::::k k:::::k    --------------- o:::::ooooo:::::o l::::l  l::::l            a::::a m::::::::::::::::::::::m           a::::a
+${AnsiColor.BRIGHT_CYAN} d::::::d    d:::::d e:::::::eeeee::::::ee:::::::eeeee::::::e p:::::p     p:::::p s:::::s  ssssss e:::::::eeeee::::::ee:::::::eeeee::::::ek::::::k:::::k     -:::::::::::::- o::::o     o::::o l::::l  l::::l     aaaaaaa:::::a m:::::mmm::::::mmm:::::m    aaaaaaa:::::a
+${AnsiColor.BRIGHT_CYAN} d:::::d     d:::::d e:::::::::::::::::e e:::::::::::::::::e  p:::::p     p:::::p   s::::::s      e:::::::::::::::::e e:::::::::::::::::e k:::::::::::k      --------------- o::::o     o::::o l::::l  l::::l   aa::::::::::::a m::::m   m::::m   m::::m  aa::::::::::::a
+${AnsiColor.BRIGHT_CYAN} d:::::d     d:::::d e::::::eeeeeeeeeee  e::::::eeeeeeeeeee   p:::::p     p:::::p      s::::::s   e::::::eeeeeeeeeee  e::::::eeeeeeeeeee  k:::::::::::k                      o::::o     o::::o l::::l  l::::l  a::::aaaa::::::a m::::m   m::::m   m::::m a::::aaaa::::::a
+${AnsiColor.BRIGHT_CYAN} d:::::d     d:::::d e:::::::e           e:::::::e            p:::::p    p::::::pssssss   s:::::s e:::::::e           e:::::::e           k::::::k:::::k                     o::::o     o::::o l::::l  l::::l a::::a    a:::::a m::::m   m::::m   m::::ma::::a    a:::::a
+${AnsiColor.BRIGHT_CYAN} d::::::ddddd::::::dde::::::::e          e::::::::e           p:::::ppppp:::::::ps:::::ssss::::::se::::::::e          e::::::::e         k::::::k k:::::k                    o:::::ooooo:::::ol::::::ll::::::la::::a    a:::::a m::::m   m::::m   m::::ma::::a    a:::::a
+${AnsiColor.BRIGHT_CYAN}  d:::::::::::::::::d e::::::::eeeeeeee   e::::::::eeeeeeee   p::::::::::::::::p s::::::::::::::s  e::::::::eeeeeeee   e::::::::eeeeeeee k::::::k  k:::::k                   o:::::::::::::::ol::::::ll::::::la:::::aaaa::::::a m::::m   m::::m   m::::ma:::::aaaa::::::a
+${AnsiColor.BRIGHT_CYAN}   d:::::::::ddd::::d  ee:::::::::::::e    ee:::::::::::::e   p::::::::::::::pp   s:::::::::::ss    ee:::::::::::::e    ee:::::::::::::e k::::::k   k:::::k                   oo:::::::::::oo l::::::ll::::::l a::::::::::aa:::am::::m   m::::m   m::::m a::::::::::aa:::a
+${AnsiColor.BRIGHT_CYAN}    ddddddddd   ddddd    eeeeeeeeeeeeee      eeeeeeeeeeeeee   p::::::pppppppp      sssssssssss        eeeeeeeeeeeeee      eeeeeeeeeeeeee kkkkkkkk    kkkkkkk                    ooooooooooo   llllllllllllllll  aaaaaaaaaa  aaaammmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa
+${AnsiColor.BRIGHT_CYAN}                                                              p:::::p
+${AnsiColor.BRIGHT_CYAN}                                                              p:::::p
+${AnsiColor.BRIGHT_CYAN}                                                             p:::::::p
+${AnsiColor.BRIGHT_CYAN}                                                             p:::::::p
+${AnsiColor.BRIGHT_CYAN}                                                             p:::::::p
+${AnsiColor.BRIGHT_CYAN}                                                             ppppppppp
+
+${AnsiColor.BRIGHT_CYAN}Template Base Info:
+${AnsiColor.BRIGHT_CYAN}- Application Name: ${spring.application.name}
+${AnsiColor.BRIGHT_CYAN}Spring Boot Version: v${spring-boot.version}
+${AnsiColor.BRIGHT_CYAN}- Application Description: ${spring.application.description}
+${AnsiColor.BRIGHT_CYAN}- Server Port: ${server.port}
+${AnsiColor.BRIGHT_CYAN}- Servlet Context Path: ${server.servlet.context-path}
+${AnsiStyle.NORMAL}

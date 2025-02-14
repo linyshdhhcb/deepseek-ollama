@@ -1,9 +1,11 @@
 server:
   port: 9292
-
+  servlet:
+    context-path: /chat
 spring:
   application:
     name: deepseek-ollama
+    description: deepseek-ollama 是一个结合了 Spring AI 和 Ollama 的项目，完成调用本地部署的 deepseek 模型的功能。
 # springdoc-openapi项目配置
 springdoc:
   swagger-ui:

@@ -12,6 +12,7 @@
 
     <groupId>com.linyi</groupId>
     <artifactId>deepseek-ollama</artifactId>
+    <name>deepseek-ollama</name>
     <version>V1.0.0</version>
 
     <properties>
